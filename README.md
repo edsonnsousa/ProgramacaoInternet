@@ -1,5 +1,5 @@
 # Programação para Internet I - ADS - IFPI #
-## Aluno: Edson Borges de Sousa Filho ##  
+## Edson Borges de Sousa Filho ##  
 
 ![](https://png.icons8.com/windows/32/000000/search-contacts.png)
 ### Contatos: ###
