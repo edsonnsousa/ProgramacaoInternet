@@ -8,6 +8,7 @@
 
 ![](https://png.icons8.com/wired/32/000000/transformation-skill.png)
 ### Habilidades: ###
+* Tecnico em Informática
 * Suporte e Manutenção de computadores  
   #### Conhecimentos em: #### 
 * Python 
