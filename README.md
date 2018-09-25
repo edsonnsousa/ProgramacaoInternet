@@ -28,7 +28,7 @@
 
 ![](https://png.icons8.com/dotty/32/000000/thinking-male.png)
 #### Expectativas para a disciplina: ####
-> Obter conhecimento acerca de desenvolvimento para internet, tornando a disciplina
-contrutiva na minha formação acadêmica.
+> Obter conhecimento acerca de desenvolvimento para internet da melhor forma possível, tornando a disciplina
+construtiva na minha formação acadêmica.
 
 
